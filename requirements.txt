@@ -9,3 +9,4 @@ gitpython
 prompt_toolkit
 pyyaml
 Flask
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
